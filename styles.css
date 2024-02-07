@@ -3,7 +3,7 @@
 body{
     font-family:  'Happy Monkey', sans-serif;
     text-align: center;
-    background-color: rgb(255, 179, 179);
+    background: linear-gradient(rgb(252, 147, 147), rgb(173, 62, 62));
     color: #fff;
 }
 
